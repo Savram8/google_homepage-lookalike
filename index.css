@@ -1,0 +1,68 @@
+body{
+    background-color: white;
+}
+
+.links{
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 15px;
+    color: #000;
+    opacity: 0.75;
+}
+
+.top-right-links{
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding-right: 35px;
+    padding-top: 15px;
+}
+
+.image-container{
+    padding-top: 210px;
+    text-align: center;
+    display: block;
+}
+
+.google-search{
+    padding-top: 10px;
+    text-align: center;
+    display: block;  
+}
+
+#google-search-textbox{
+    width: 400px;
+}
+
+.buttons{
+    padding-top: 15px;
+    text-align: center;
+    display: block;  
+}
+
+.bottom-navbar{
+    display: inline-block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding-right: 35px;
+    padding-left: 35px;
+    padding-bottom: 15px;
+    background: #fff;
+
+}
+
+
+
+.bottom-right-navbar{
+    display: inline-block;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding-right: 35px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+}
+
+
